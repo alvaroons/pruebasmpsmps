@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667307522462",
+    "project_id": "mps-db-92092",
+    "storage_bucket": "mps-db-92092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667307522462:android:eb712ef8d09625e1f4fe8f",
+        "android_client_info": {
+          "package_name": "com.example.pruebasmpsmps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667307522462-hqr05gvv1r4qi2cqv4jsoaij5a5iam1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2JQLVSE21RbBfYl9qjRhd4WeVP13HGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667307522462-hqr05gvv1r4qi2cqv4jsoaij5a5iam1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
